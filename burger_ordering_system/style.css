@@ -1,0 +1,23 @@
+#body{
+    background-image: url("images/Burger\ king.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+    color: #bdbdbd;
+}
+
+.row.container#order_information {
+    border: 1px solid;
+}
+
+div#order_info_header {
+    border-bottom: 1px solid white;
+}
+
+.custom-radio .custom-control-input:checked~.custom-control-label::after {
+    background-color: #a3b434;
+    border-radius: 10px;
+}
+.bg-dark {
+    background-color: #2b060d!important;
+}
